@@ -1,7 +1,7 @@
 # Covid19-Self-management-App
 Covid19 Self-management App
 
-# Authors
+# Contributors
 
 ## Name
 ### xxxxxxxxxx
