@@ -1,0 +1,4 @@
+To configure the backgrounds for the pages, 
+the css code to apply to the area that the background should be in is as follows:
+  background-image: url("<.gif file name>");
+  background-size: 676px 381px;
